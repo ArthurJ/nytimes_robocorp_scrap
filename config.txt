@@ -1,0 +1,5 @@
+[DEFAULT]
+search_phrase = bike
+months = 1
+sections = New York,U.S.,World
+#sections =
